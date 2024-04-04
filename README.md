@@ -24,13 +24,9 @@ Write the C Program using Linux Process API - fork(), wait(), exec()
 ### Step 3:
 
 Test the C Program for the desired output. 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 # PROGRAM:
 
-
-DEVELOPED BY: Ashwin Kumar A
-
-REG NO.     : 212223040021
 ## C Program to print process ID and parent Process ID using Linux API system calls
 ```
 #include <stdio.h>
@@ -58,7 +54,6 @@ int main(void)
 
 ![image](https://github.com/AshwinKumar-Saveetha/Linux-Process-API-fork-wait-exec/assets/155129814/8004cc60-fba2-48c2-aa52-399336afc091)
 
-<br><br><br><br><br><br><br><br><br>
 
 
 ## C Program to create new process using Linux API system calls fork() and exit()
